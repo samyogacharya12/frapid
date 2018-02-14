@@ -24,7 +24,7 @@ Any frapid application may target any or all of the following scopes:
 
 Frapid was built from the ground up for the cloud. Not only frapid supports web farm environments, 
 frapid can also host several (hundred) website and application instances 
-running as a single IIS Website.
+running as a single IIS Websit.
 
 **Documentation**
 
